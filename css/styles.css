@@ -1,0 +1,15 @@
+/*--GLOBAL STYLES--*/
+
+
+
+
+
+/*--HEADER/NAV--*/
+
+
+/*---ED PROFILE PHOTO ---*/
+.ed-photo {
+  background-image: url('../assets/Ed-Gaskins-wide.jpg');
+  height: 364px;
+  /*width: 100%;*/
+}
